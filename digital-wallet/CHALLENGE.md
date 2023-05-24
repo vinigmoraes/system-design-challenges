@@ -21,3 +21,4 @@ You were hired as Software Developer to work in a Fintech Company, your job is t
 - The Wallet should be able to handle special dates such as Black Friday
 - It's important for the company to save money as much possible
 - The company has a integration a Banking as a Service to execute financial operations
+- It's necessary to send every day at 12pm all financial transactions to a regulatory analysis
